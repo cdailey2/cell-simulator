@@ -4,7 +4,7 @@ Java-based implementation of Conway’s Game of Life, applying SOLID principles 
 
 
 
-Important notes: 
+<b>Important notes:</b>
 - A lot of code was cleaned & refactored by me but not properly credited... Currently looking through history to update this and accurately showcase my efforts in this project... 
 - Code was for a software dev project at my school and originally pulled from a different organization, which is why when pressing blame all is credited to me.
 - Permission was given by faculty to pull and publish this solution publicly.
