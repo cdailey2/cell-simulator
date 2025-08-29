@@ -1,3 +1,4 @@
+// Author: Colin Dailey //
 package simulation;
 
 import javafx.animation.KeyFrame;
@@ -157,3 +158,4 @@ public class SimulationDisplay extends Application {
 //    }
 
 }
+
